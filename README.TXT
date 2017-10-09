@@ -1,3 +1,10 @@
+SysnovaFeed is a revolutionary free/open-source least-cost feed formulation software by Sysnova Information Systems Limited.
+
+SysnovaFeed software is a comprehensive free/open-source tool designed to meet the formulation needs of professional nutritionists and feed producers.
+
+    The free/open-source nature of SysnovaFeed also makes it ideal for use in academic institutions and universities.
+    SysnovaFeed is user-friendly and simple to download and set up on any desktop or laptop computer.
+    SysnovaFeed is customizable and easily allows any nutritionist to enter unlimited numbers of ingredients and formulations.
 
 Prerequisities
 --------------------
