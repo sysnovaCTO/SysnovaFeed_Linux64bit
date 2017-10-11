@@ -12,10 +12,10 @@ Installation
 login
 ------------
 userID: System
-Passwprd: p
+Password: p
 
 userID: User
-Passwprd: p
+Password: p
 
 SysnovaFeed is a revolutionary free/open-source least-cost feed formulation software by Sysnova Information Systems Limited.
 ---------------------------------------------------------------------------------------------------------------------------
