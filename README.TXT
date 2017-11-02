@@ -30,7 +30,7 @@ SysnovaFeed aims to bring benefits of the free/open-source software movement to 
 
 Functional Features:
 
-Ingredients: SysnovaFeed contains a default nutritional database for major ingredients like maize/corn, wheat, wheat bran, rice, rice bran, soybean meal and soybean oil based on well-established USDA (United States Department of Agriculture) nutritional specifications. Users can edit these nutritional specifications and add unlimited ingredients.
+Ingredients: SysnovaFeed contains a default nutritional database for major ingredients like maize/corn, wheat, wheat bran, rice, rice bran, soybean meal and soybean oil based on nutritional specifications. Users can edit these nutritional specifications and add unlimited ingredients.
 
 Formulations: SysnovaFeed contains default formulations for well-known breeds of commercial layers based on published nutritional standards of breeding companies. Users can edit these formulations and add unlimited new formulations.
 
@@ -42,6 +42,7 @@ Technical Features :
     SysnovaFeed formulation software has been developed in Java programming language, which supports all computer operating systems (MS Windows, Mac and Linux).
     An Android app will also be released in future.
     All formulation, ingredient and price data is stored in free/open-source H2 database, which is also written in Java and will work in any platform.
+    Least-cost optimization is done by free/open-source Gnu Linear Programming Kit (https://www.gnu.org/software/glpk/).
 
 Commercial Web-Based Version: A web-based multi-user collaborative version of SysnovaFeed will be released as a commercial product for purchase by large companies with multiple feed mills and nutritionists. 
 
