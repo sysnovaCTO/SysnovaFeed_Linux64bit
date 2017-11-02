@@ -1,12 +1,11 @@
 Prerequisities
 --------------------
-OS: Linux (recommended ubuntu version:  Ubuntu 16.04.2 64)
+OS: Linux (recommended ubuntu version:  Ubuntu 16.04.2 64bit)
 java:jdk 1.7.0 or higher version
-
 
 Installation
 ----------------------
-1) run install.sh from termina.
+1) run install.sh from terminal.
 2) run run.sh
 
 login
