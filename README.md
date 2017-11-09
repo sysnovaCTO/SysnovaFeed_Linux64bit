@@ -1,13 +1,12 @@
 # SysnovaFeed is a revolutionary free/open-source least-cost feed formulation software by Sysnova Information Systems Limited.
 
-### Installation:
 
-#### Prerequisities
+### Prerequisities
 --------------------
 * OS: Linux (recommended ubuntu version:  Ubuntu 16.04.2 64bit)
 * java:jdk 1.7.0 or higher version
 
-#### Installation
+### Installation
 ----------------------
 * run install.sh from terminal.
 * run run.sh
