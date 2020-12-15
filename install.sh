@@ -9,7 +9,7 @@ if [ ! -x "${JAVA}" ]; then
 else
    	# export JAVA_VERSION
 	JAVA_VERSION=`java -version 2>&1 |awk 'NR==1{ gsub(/"/,""); print $3 }'`
-	JAVA_VER=$(java -version 2>&1 | sed -n ';s/.* version "\(.*\)\.\(.*\)\..*"/\1\2/p;')
+	JAVA_VER=$(java -version 2>&1 | sed -n ';s/.* version "\([^.]*\)\.\([^.]*\)\..*$/\1\2/p;')
 
 	if [ "$JAVA_VER" -ge 17 ]; then
 	 	echo $JAVA_VERSION
